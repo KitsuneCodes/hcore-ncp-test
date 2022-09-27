@@ -1,0 +1,5 @@
+name: Paqlio
+version: '${project.version}'
+main: com.paqlio.Main
+api-version: 1.19
+authors: [ paqlio ]
